@@ -1,2 +1,0 @@
-# calculator
-Financial Python Calculator
